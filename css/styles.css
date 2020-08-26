@@ -1,7 +1,7 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Tahoma, Arial, sans-serif;
     margin: 0;
-    padding: 70px;
+    padding: 0;
 }
 .hero{
     width: 100%;
@@ -70,7 +70,7 @@ body{
     box-sizing: border-box;
 }
 
-.card h1{
+.gallery-title{
     padding-left: 50px;
     font-size: 20px;
     text-transform: uppercase;
@@ -78,7 +78,7 @@ body{
     color: rgba(0, 0, 0, 0.849);
 }
 
-.card p{
+.gallery-text{
     padding-left: 50px;
 }
 
