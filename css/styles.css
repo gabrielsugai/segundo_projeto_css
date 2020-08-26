@@ -43,3 +43,16 @@ body{
     list-style: none;
     margin-right: 40px;
 }
+
+.article{
+    margin: 0 130px 0 130px;
+}
+
+.article h1{
+    text-align: center;
+}
+
+.article p{
+    text-align: center;
+    line-height: 30px;
+}
