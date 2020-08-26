@@ -103,3 +103,19 @@ body{
     margin-right: 500px;
 }
 
+.contact{
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(0, 0, 41);
+}
+
+.footer{
+    background-color: black;
+    color: rgb(65, 163, 255);
+    height: 70px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 70px;
+    letter-spacing: 3px;
+}
