@@ -82,3 +82,24 @@ body{
     padding-left: 50px;
 }
 
+.about-us{
+    padding: 50px;
+    height: 450px;
+    color: white;
+    background-image: url(../imagens/bg_detalhe.png);
+    background-position: center right;
+    background-size: contain;
+    background-repeat: initial;
+}
+
+.about-us h1{
+    font-size: 60px;
+    text-transform: uppercase;
+}
+
+.about-us p{
+    text-align: left;
+    font-size: 20px;
+    margin-right: 500px;
+}
+
