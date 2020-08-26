@@ -38,10 +38,11 @@ body{
     letter-spacing: 5px;
     text-transform: uppercase;
     font-size: 12px;
+    transition: color 0.3s linear;
 }
 
 .hero nav a:hover{
-    color: rgba(185, 185, 185, 1);
+    color: white;
 }
 
 .hero nav li{
